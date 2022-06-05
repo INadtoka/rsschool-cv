@@ -2,7 +2,7 @@
 <img src = "https://res.cloudinary.com/soundbetter/image/upload/c_fill,f_auto,g_face:auto,h_533,q_90,w_533/v1542112137/assets/photos/141877/sY_D8gtX_400x400.jpg" width = "150" height = "150" alt = "пример" align = "right" />
 ###Ivan Nadtoka
 
-#####@inadtoka
+#####Github: @inadtoka
 #####29 years
 ___
 ######Contact information:
